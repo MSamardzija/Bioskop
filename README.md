@@ -2,17 +2,17 @@
 
 ### Admin
 
-Username: Admin
+Username: Admin\
 Password: Admin
 
 ### Manager
 
-Username: Men
+Username: Men\
 Password: 123456
 
 ### User
 
-Username: Samardzija
+Username: Samardzija\
 Password: 123123
 
 ### Pocetna strana
@@ -97,7 +97,7 @@ Password: 123123
 
 ### Menadzer dodaje novu projekciju
 
-<img src="Slike/Menadzer/DodajeProjekciju.png">
+<img src="Slike/Menadzer/MenadzerDodajeProjekciju.png">
 
 ### Menadzer menja podatke za postojaci film
 
